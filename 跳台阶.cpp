@@ -2,14 +2,14 @@ class Solution {
 public:
     int jumpFloor(int number) {
          if (number< 1) {
-             return 0;//如果小于3，则跳不了
+             return 0;//如果小于1，则跳不了
          }
  
          if (number == 1) {
-             return 1;//只剩下3级或者5级，则只有一种跳法，跳3级或者5级，一次跳完
+             return 1;//剩余一级的话，只有一种跳法 
          }
         
-         if (number == 2){
+         if (number == 2){  //剩余两级的话，有两种跳法； 
              return 2;
          }
  
