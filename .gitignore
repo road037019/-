@@ -1,6 +1,7 @@
 ﻿# Windows:
 *.o
 *.exe
+.cover.bat
 
 # Python:
 *.py[cod]
