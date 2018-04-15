@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std; 
+	
 class Solution {
 public:
     int jumpFloor(int number) {
@@ -18,3 +21,9 @@ public:
         
     }
 };
+
+int main(){
+	Solution s;
+	cout << s.jumpFloor(3);
+	return 0;
+}
