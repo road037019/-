@@ -1,8 +1,8 @@
-﻿# Windows:
+# Windows:
 *.o
 *.exe
 .cover.bat
-*.cpp~
+*.cpp?
 
 # Python:
 *.py[cod]
