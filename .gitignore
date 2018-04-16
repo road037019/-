@@ -2,6 +2,7 @@
 *.o
 *.exe
 .cover.bat
+*.cpp~
 
 # Python:
 *.py[cod]
