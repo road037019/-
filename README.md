@@ -9,11 +9,12 @@ int main(){
   return 0;
 }
 ```
-    ddddd
-    fff
     
-    fff
+#include <stdio.h>
+int main(){
+   printf("hello algorithm! \n");
+   return 0;
+}
     
-    fff
-    dddd
+
     
