@@ -15,7 +15,3 @@ int main(){
       printf("hello algorithm! \n");
       return 0;
     }
-    
-    
-
-    
