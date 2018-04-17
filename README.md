@@ -2,10 +2,10 @@
 剑指offer部分习题答案
 
 ```
-    #include <stdio.h>
+#include <stdio.h>
     
-    int main(){
-      printf("hello world");
-      return 0;
-    }
+int main(){
+  printf("hello world");
+  return 0;
+}
 ```
