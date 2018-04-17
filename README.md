@@ -11,7 +11,7 @@ int main(){
   return 0;
 }
 ```
-    C++
+    
     #include <stdio.h>
     
     int main(){
