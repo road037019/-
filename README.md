@@ -5,7 +5,7 @@
 #include <stdio.h>
     
 int main(){
-  printf("hello world");
+  printf("hello algorithm! \n");
   return 0;
 }
 ```
