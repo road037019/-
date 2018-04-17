@@ -11,8 +11,8 @@ int main(){
   return 0;
 }
 ```
-    
-    #include <stdio.h>
+    C++
+    #include <stdio.h>
     
     int main(){
       printf("hello algorithm! \n");
