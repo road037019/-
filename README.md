@@ -3,7 +3,7 @@
 
 **以下练习使用markdown**
 
-```python
+```C++
 #include <stdio.h>
     
 int main(){
